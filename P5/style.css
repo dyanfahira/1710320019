@@ -1,0 +1,20 @@
+*{
+			color: orange;
+			font-family: serif;
+		}
+		h2{
+			font-size: 40px;
+			color: grey;
+			border: 2px solid maroon;
+			font-family: sans-serif;
+		}
+		.coding{
+			background-color: lightgrey;
+			font-family: "Courier New", monospace;
+		}
+		.biru{
+			color: rgba(255,0,0,0.5);
+		}
+		.kuning{
+			color: yellow;
+		}
